@@ -23,9 +23,6 @@ class MarketRepositoryImplTest{
 
     lateinit var marketRepository: MarketRepository
 
-
-
-
     @Mock
     lateinit var yahooFinanceApi: YahooFinanceApi
 
